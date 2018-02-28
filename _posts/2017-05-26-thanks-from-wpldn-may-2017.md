@@ -36,5 +36,3 @@ post_date: 2017-05-26 13:06:35
 <p class="p1"><span class="s1">Finally; we all some level of knowledge that is greater than others, we may not always think it but we do.  The WordPress London Meetup is a great opportunity to share that knowledge and use as a platform to be seen.  If you have a talk you'd like to share or and idea for a group discussion then please <a href="https://wpldn.uk/contact-us"><span class="s2">get in contact</span></a>.</span></p>
 <p class="p1"><span class="s1"><i>We're proud that #wpldn is for the community, by the community.</i></span></p>
 <p class="p1"><span class="s1">Join the <a href="https://www.facebook.com/groups/wpldn/"><span class="s2">Facebook Group</span></a> and become a <a href="https://www.meetup.com/London-WordPress/"><span class="s2">Meetup Member</span></a>.</span></p>
-
-This content is open source. [wpghs target='view' type='link' text='Please help improve it.']
