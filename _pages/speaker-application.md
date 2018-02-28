@@ -8,8 +8,7 @@ permalink: https://wpldn.uk/speaker-application
 published: true
 post_date: 2015-03-26 00:41:38
 ---
-
-	<h2>Before Applying</h2>
+<h2>Before Applying</h2>
 <p>Before applying to become a speaker, here are a few bits of information you should know.</p>
 <p>As per the standard WordPress community, we do NOT pay speakers, nor cover speaker expenses, such as hotel, travel or food (though we do have some food available to all attendees on the night).</p>
 <p>As our event is typically two and a half hours on one evening each month, we don't have a speakers dinner. We do typically have 30 minutes of networking before the opening remarks, and an opportunity to network after the presentations have finished.</p>
