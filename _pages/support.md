@@ -20,7 +20,7 @@ post_date: 2017-08-31 10:11:56
 	<h3>
 				Support the WordPress London Meetup
 			</h3>
-	<p>We not only offer the <a href="https://wpldn.uk/supporters/#sponsor">opportunity to sponsor the #wpldn events</a> for some great coverage and bucket loads of good karma, but we now offer the option to become a <em>Supporter</em>.</p>
+	<p>We not only offer the <a href="https://wpldn.uk/support#sponsor">opportunity to sponsor the #wpldn events</a> for some great coverage and bucket loads of good karma, but we now offer the option to become a <em>Supporter</em>.</p>
 <p>WordPress London Supporters are companies and individuals that offer time to help make the events what they are.  There are many ways in which you can support here are just a few examples:</p>
 <ul>
 <li><strong>Photographer</strong> - Get the perfect shot and cover the event with your camera.</li>
