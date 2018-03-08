@@ -8,8 +8,7 @@ permalink: https://wpldn.uk/about
 published: true
 post_date: 2018-01-03 04:25:42
 ---
-
-	<h2>The WordPress London Meetup</h2>
+<h2>The WordPress London Meetup</h2>
 <p>Also known as <a href="http://www.meetup.com/London-WordPress/">#WPLDN</a> is a monthly meetup for web professionals or end users who interact with WordPress, held the last Thursday of the month.</p>
 <p>The format is usually 2-3 talks, covering a wide range of WordPress related topics (be sure to <a href="https://wpldn.uk/attend/">check the listings</a>), an open Q&amp;A session, followed by networking at a local bar.</p>
 <p>It’s a great place to share ideas, techniques and meet other WordPress lovers.</p>

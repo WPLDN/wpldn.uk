@@ -1,6 +1,6 @@
 ---
 ID: 2832
-post_title: 'log($this), $monitor->that()'
+post_title: 'log($this), $monitor-&gt;that()'
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
