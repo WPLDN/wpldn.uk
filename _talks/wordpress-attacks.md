@@ -4,7 +4,8 @@ post_title: WordPress Attacks
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/wordpress-attacks
+permalink: >
+  https://www.wpldn.uk/talk/wordpress-attacks
 published: true
 post_date: 2015-01-23 22:14:43
 ---

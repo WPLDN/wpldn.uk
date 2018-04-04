@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/tidy-wordpress-site-new-year
+  https://www.wpldn.uk/talk/tidy-wordpress-site-new-year
 published: true
 post_date: 2016-01-01 13:51:51
 ---

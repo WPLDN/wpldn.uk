@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/building-a-wordpress-github-plugin-updater
+  https://www.wpldn.uk/talk/building-a-wordpress-github-plugin-updater
 published: true
 post_date: 2015-02-26 20:08:38
 ---

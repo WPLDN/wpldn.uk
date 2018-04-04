@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/leveraging-customizer-big-media
+  https://www.wpldn.uk/talk/leveraging-customizer-big-media
 published: true
 post_date: 2017-02-01 22:22:43
 ---

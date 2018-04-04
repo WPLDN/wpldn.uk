@@ -4,7 +4,7 @@ post_title: Dave Green
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/dave-green
+permalink: https://www.wpldn.uk/speaker/dave-green
 published: true
 post_date: 2017-06-02 02:25:32
 ---

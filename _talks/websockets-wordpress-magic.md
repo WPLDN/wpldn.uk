@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/websockets-wordpress-magic
+  https://www.wpldn.uk/talk/websockets-wordpress-magic
 published: true
 post_date: 2015-10-01 11:06:57
 ---

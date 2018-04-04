@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/scaling-wordpress-containers
+  https://www.wpldn.uk/talk/scaling-wordpress-containers
 published: true
 post_date: 2017-11-01 16:40:58
 ---

@@ -4,7 +4,8 @@ post_title: Rachel McCollin
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/rachel-mccollin
+permalink: >
+  https://www.wpldn.uk/speaker/rachel-mccollin
 published: true
 post_date: 2017-06-03 23:44:26
 ---

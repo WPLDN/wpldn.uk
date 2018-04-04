@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/privacy-design-7-things-cant-afford-ignore
+  https://www.wpldn.uk/talk/privacy-design-7-things-cant-afford-ignore
 published: true
 post_date: 2017-02-01 22:19:19
 ---

@@ -9,7 +9,7 @@ post_excerpt: >
   after the talk is presented.
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/what-to-expect-at-wcldn
+  https://www.wpldn.uk/talk/what-to-expect-at-wcldn
 published: true
 post_date: 2018-03-08 13:18:27
 ---

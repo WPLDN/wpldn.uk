@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/developing-and-selling-wordpress-plugins
+  https://www.wpldn.uk/talk/developing-and-selling-wordpress-plugins
 published: true
 post_date: 2014-06-01 22:38:39
 ---

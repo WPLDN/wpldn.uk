@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/front-end-workflow-automation-for-theme-and-plugin-development
+  https://www.wpldn.uk/talk/front-end-workflow-automation-for-theme-and-plugin-development
 published: true
 post_date: 2015-01-29 19:30:43
 ---

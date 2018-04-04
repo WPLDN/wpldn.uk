@@ -4,7 +4,7 @@ post_title: Speaker Info Pack
 author: Dan Maby
 post_excerpt: ""
 layout: page
-permalink: https://wpldn.uk/speaker-pack
+permalink: https://www.wpldn.uk/speaker-pack
 published: true
 post_date: 2018-02-15 11:31:44
 ---

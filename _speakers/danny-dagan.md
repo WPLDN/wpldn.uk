@@ -4,7 +4,7 @@ post_title: Danny Dagan
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/danny-dagan
+permalink: https://www.wpldn.uk/speaker/danny-dagan
 published: true
 post_date: 2018-02-06 22:15:09
 ---

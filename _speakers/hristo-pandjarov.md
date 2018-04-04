@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
 permalink: >
-  https://wpldn.uk/speaker/hristo-pandjarov
+  https://www.wpldn.uk/speaker/hristo-pandjarov
 published: true
 post_date: 2018-02-06 22:27:46
 ---

@@ -4,7 +4,8 @@ post_title: Andy Jansons
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/andy-jansons
+permalink: >
+  https://www.wpldn.uk/speaker/andy-jansons
 published: true
 post_date: 2018-02-07 10:02:54
 ---

@@ -4,7 +4,7 @@ post_title: Object Caching
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/object-caching
+permalink: https://www.wpldn.uk/talk/object-caching
 published: true
 post_date: 2015-01-23 22:14:00
 ---

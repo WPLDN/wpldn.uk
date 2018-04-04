@@ -4,7 +4,7 @@ post_title: WP-API
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/wp-api
+permalink: https://www.wpldn.uk/talk/wp-api
 published: true
 post_date: 2014-10-01 16:55:43
 ---

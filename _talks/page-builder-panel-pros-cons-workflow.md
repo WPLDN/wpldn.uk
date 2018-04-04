@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/page-builder-panel-pros-cons-workflow
+  https://www.wpldn.uk/talk/page-builder-panel-pros-cons-workflow
 published: true
 post_date: 2017-08-01 18:13:19
 ---

@@ -4,7 +4,8 @@ post_title: Graham Armfield
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/graham-armfield
+permalink: >
+  https://www.wpldn.uk/speaker/graham-armfield
 published: true
 post_date: 2017-05-02 15:07:21
 ---

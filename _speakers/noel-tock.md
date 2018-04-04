@@ -4,7 +4,7 @@ post_title: Noel Tock
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/noel-tock
+permalink: https://www.wpldn.uk/speaker/noel-tock
 published: true
 post_date: 2017-06-03 17:39:38
 ---

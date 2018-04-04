@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/logthis-monitor-that
+  https://www.wpldn.uk/talk/logthis-monitor-that
 published: true
 post_date: 2016-11-01 09:40:25
 ---

@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/change-is-inevitable-growth-is-intentional
+  https://www.wpldn.uk/talk/change-is-inevitable-growth-is-intentional
 published: true
 post_date: 2015-01-29 18:00:24
 ---

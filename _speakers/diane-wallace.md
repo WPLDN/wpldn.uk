@@ -4,7 +4,8 @@ post_title: Diane Wallace
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/diane-wallace
+permalink: >
+  https://www.wpldn.uk/speaker/diane-wallace
 published: true
 post_date: 2017-06-03 18:37:59
 ---

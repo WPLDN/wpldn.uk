@@ -4,7 +4,8 @@ post_title: Nathan Roberts
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/nathan-roberts
+permalink: >
+  https://www.wpldn.uk/speaker/nathan-roberts
 published: true
 post_date: 2017-06-03 17:39:23
 ---

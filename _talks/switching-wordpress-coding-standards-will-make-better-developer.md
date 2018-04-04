@@ -8,7 +8,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/switching-wordpress-coding-standards-will-make-better-developer
+  https://www.wpldn.uk/talk/switching-wordpress-coding-standards-will-make-better-developer
 published: true
 post_date: 2016-10-01 09:52:39
 ---

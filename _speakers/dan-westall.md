@@ -4,7 +4,7 @@ post_title: Dan Westall
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/dan-westall
+permalink: https://www.wpldn.uk/speaker/dan-westall
 published: true
 post_date: 2017-06-02 02:55:39
 ---

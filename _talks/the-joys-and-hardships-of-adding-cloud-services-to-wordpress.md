@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/the-joys-and-hardships-of-adding-cloud-services-to-wordpress
+  https://www.wpldn.uk/talk/the-joys-and-hardships-of-adding-cloud-services-to-wordpress
 published: true
 post_date: 2018-03-08 13:14:58
 ---

@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/lets-accessibility-audit-wpldn-uk-together
+  https://www.wpldn.uk/talk/lets-accessibility-audit-wpldn-uk-together
 published: true
 post_date: 2017-04-01 21:51:49
 ---

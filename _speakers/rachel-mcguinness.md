@@ -5,7 +5,7 @@ author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
 permalink: >
-  https://wpldn.uk/speaker/rachel-mcguinness
+  https://www.wpldn.uk/speaker/rachel-mcguinness
 published: true
 post_date: 2017-06-02 00:56:40
 ---

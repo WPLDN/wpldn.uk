@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/didnt-know-need-know-wordpress-databases
+  https://www.wpldn.uk/talk/didnt-know-need-know-wordpress-databases
 published: true
 post_date: 2017-10-01 13:10:36
 ---

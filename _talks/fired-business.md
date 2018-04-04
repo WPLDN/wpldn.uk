@@ -4,7 +4,7 @@ post_title: Fired Up For Business
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/fired-business
+permalink: https://www.wpldn.uk/talk/fired-business
 published: true
 post_date: 2015-10-01 12:55:49
 ---

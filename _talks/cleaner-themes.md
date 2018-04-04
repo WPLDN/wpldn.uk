@@ -4,7 +4,7 @@ post_title: Cleaner Themes
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/cleaner-themes
+permalink: https://www.wpldn.uk/talk/cleaner-themes
 published: true
 post_date: 2015-01-23 22:31:48
 ---

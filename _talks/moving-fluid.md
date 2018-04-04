@@ -4,7 +4,7 @@ post_title: Moving Fluid
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/moving-fluid
+permalink: https://www.wpldn.uk/talk/moving-fluid
 published: true
 post_date: 2015-01-23 22:11:17
 ---

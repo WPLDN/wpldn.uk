@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/the-business-of-wordpress
+  https://www.wpldn.uk/talk/the-business-of-wordpress
 published: true
 post_date: 2015-01-23 22:27:27
 ---

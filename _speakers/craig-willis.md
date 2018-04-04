@@ -4,7 +4,8 @@ post_title: Craig Willis
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/craig-willis
+permalink: >
+  https://www.wpldn.uk/speaker/craig-willis
 published: true
 post_date: 2018-02-06 16:29:21
 ---

@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/building-single-page-sites-wordpress
+  https://www.wpldn.uk/talk/building-single-page-sites-wordpress
 published: true
 post_date: 2017-01-01 22:31:12
 ---

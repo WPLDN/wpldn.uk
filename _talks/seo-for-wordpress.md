@@ -4,7 +4,8 @@ post_title: SEO for WordPress
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/seo-for-wordpress
+permalink: >
+  https://www.wpldn.uk/talk/seo-for-wordpress
 published: true
 post_date: 2015-01-23 22:34:38
 ---

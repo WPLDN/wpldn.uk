@@ -4,7 +4,8 @@ post_title: Anna Maybank
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/anna-maybank
+permalink: >
+  https://www.wpldn.uk/speaker/anna-maybank
 published: true
 post_date: 2018-02-07 11:55:29
 ---

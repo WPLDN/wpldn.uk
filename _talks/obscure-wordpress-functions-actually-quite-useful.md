@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/obscure-wordpress-functions-actually-quite-useful
+  https://www.wpldn.uk/talk/obscure-wordpress-functions-actually-quite-useful
 published: true
 post_date: 2016-02-01 17:26:03
 ---

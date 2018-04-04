@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
 permalink: >
-  https://wpldn.uk/speaker/annabelle-woodger
+  https://www.wpldn.uk/speaker/annabelle-woodger
 published: true
 post_date: 2017-05-05 11:11:03
 ---

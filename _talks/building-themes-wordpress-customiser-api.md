@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/building-themes-wordpress-customiser-api
+  https://www.wpldn.uk/talk/building-themes-wordpress-customiser-api
 published: true
 post_date: 2016-01-01 13:20:31
 ---

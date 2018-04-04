@@ -4,7 +4,8 @@ post_title: Sharing knowledge
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/sharing-knowledge
+permalink: >
+  https://www.wpldn.uk/talk/sharing-knowledge
 published: true
 post_date: 2014-10-01 16:57:19
 ---

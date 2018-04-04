@@ -4,7 +4,7 @@ post_title: Nick Garner
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/nick-garner
+permalink: https://www.wpldn.uk/speaker/nick-garner
 published: true
 post_date: 2017-06-03 19:31:27
 ---

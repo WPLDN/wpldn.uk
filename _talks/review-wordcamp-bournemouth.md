@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/review-wordcamp-bournemouth
+  https://www.wpldn.uk/talk/review-wordcamp-bournemouth
 published: true
 post_date: 2014-07-01 21:52:25
 ---

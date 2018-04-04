@@ -4,7 +4,8 @@ post_title: Kirsty Burgoine
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/kirsty-burgoine
+permalink: >
+  https://www.wpldn.uk/speaker/kirsty-burgoine
 published: true
 post_date: 2017-06-03 18:51:37
 ---

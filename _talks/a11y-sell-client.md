@@ -4,7 +4,8 @@ post_title: '#A11Y and How to Sell it to a Client'
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/a11y-sell-client
+permalink: >
+  https://www.wpldn.uk/talk/a11y-sell-client
 published: true
 post_date: 2017-03-01 22:07:57
 ---

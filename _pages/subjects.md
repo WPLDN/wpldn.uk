@@ -4,7 +4,7 @@ post_title: Talk Subjects
 author: Dan Maby
 post_excerpt: ""
 layout: page
-permalink: https://wpldn.uk/subjects
+permalink: https://www.wpldn.uk/subjects
 published: true
 post_date: 2018-02-12 13:00:21
 ---

@@ -4,7 +4,8 @@ post_title: Stef Mattana
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/stef-mattana
+permalink: >
+  https://www.wpldn.uk/speaker/stef-mattana
 published: true
 post_date: 2017-06-27 12:41:39
 ---

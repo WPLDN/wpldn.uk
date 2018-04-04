@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/i-feel-the-need-the-need-for-speed
+  https://www.wpldn.uk/talk/i-feel-the-need-the-need-for-speed
 published: true
 post_date: 2015-01-23 22:19:48
 ---

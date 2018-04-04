@@ -4,7 +4,8 @@ post_title: Tammie Lister
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/tammie-lister
+permalink: >
+  https://www.wpldn.uk/speaker/tammie-lister
 published: true
 post_date: 2017-05-31 22:57:22
 ---

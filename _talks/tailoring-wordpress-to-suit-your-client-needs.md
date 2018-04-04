@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/tailoring-wordpress-to-suit-your-client-needs
+  https://www.wpldn.uk/talk/tailoring-wordpress-to-suit-your-client-needs
 published: true
 post_date: 2015-01-23 22:06:05
 ---

@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/version-control-wordpress-sites
+  https://www.wpldn.uk/talk/version-control-wordpress-sites
 published: true
 post_date: 2015-06-01 10:53:59
 ---

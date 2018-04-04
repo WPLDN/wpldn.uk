@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/created-google-docs-style-editing-wordpress-posts-pages
+  https://www.wpldn.uk/talk/created-google-docs-style-editing-wordpress-posts-pages
 published: true
 post_date: 2015-09-01 12:06:33
 ---

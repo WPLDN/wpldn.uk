@@ -4,7 +4,7 @@ post_title: Mike Little
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/mike-little
+permalink: https://www.wpldn.uk/speaker/mike-little
 published: true
 post_date: 2017-06-03 17:57:06
 ---

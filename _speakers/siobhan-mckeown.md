@@ -4,7 +4,8 @@ post_title: Siobhan McKeown
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/siobhan-mckeown
+permalink: >
+  https://www.wpldn.uk/speaker/siobhan-mckeown
 published: true
 post_date: 2018-02-19 16:48:59
 ---

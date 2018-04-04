@@ -4,7 +4,8 @@ post_title: Ngaire Ackerley
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/ngaire-ackerley
+permalink: >
+  https://www.wpldn.uk/speaker/ngaire-ackerley
 published: true
 post_date: 2017-06-03 18:53:41
 ---

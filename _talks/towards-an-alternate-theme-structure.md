@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/towards-an-alternate-theme-structure
+  https://www.wpldn.uk/talk/towards-an-alternate-theme-structure
 published: true
 post_date: 2015-01-23 22:20:31
 ---

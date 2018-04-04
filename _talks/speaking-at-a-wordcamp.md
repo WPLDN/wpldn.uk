@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/speaking-at-a-wordcamp
+  https://www.wpldn.uk/talk/speaking-at-a-wordcamp
 published: true
 post_date: 2014-10-01 16:52:17
 ---

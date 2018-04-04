@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/getting-started-with-wordpress-web-apps
+  https://www.wpldn.uk/talk/getting-started-with-wordpress-web-apps
 published: true
 post_date: 2015-01-23 22:04:24
 ---

@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/can-tools-entrepreneurial-success
+  https://www.wpldn.uk/talk/can-tools-entrepreneurial-success
 published: true
 post_date: 2016-09-01 10:07:35
 ---

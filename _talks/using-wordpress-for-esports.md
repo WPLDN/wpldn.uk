@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/using-wordpress-for-esports
+  https://www.wpldn.uk/talk/using-wordpress-for-esports
 published: true
 post_date: 2014-08-01 22:42:02
 ---

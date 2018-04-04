@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/tips-and-tricks-for-using-wordpress-as-an-application-platform
+  https://www.wpldn.uk/talk/tips-and-tricks-for-using-wordpress-as-an-application-platform
 published: true
 post_date: 2015-01-23 22:26:45
 ---

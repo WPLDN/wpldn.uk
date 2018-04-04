@@ -4,7 +4,7 @@ post_title: Neil Pie
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/neil-pie
+permalink: https://www.wpldn.uk/speaker/neil-pie
 published: true
 post_date: 2018-02-07 12:23:00
 ---

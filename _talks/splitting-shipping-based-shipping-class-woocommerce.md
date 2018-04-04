@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/splitting-shipping-based-shipping-class-woocommerce
+  https://www.wpldn.uk/talk/splitting-shipping-based-shipping-class-woocommerce
 published: true
 post_date: 2017-06-27 12:55:51
 ---

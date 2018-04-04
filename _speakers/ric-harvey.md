@@ -4,7 +4,7 @@ post_title: Ric Harvey
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/ric-harvey
+permalink: https://www.wpldn.uk/speaker/ric-harvey
 published: true
 post_date: 2018-02-07 14:11:13
 ---

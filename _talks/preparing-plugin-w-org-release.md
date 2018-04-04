@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/preparing-plugin-w-org-release
+  https://www.wpldn.uk/talk/preparing-plugin-w-org-release
 published: true
 post_date: 2016-01-01 13:44:17
 ---

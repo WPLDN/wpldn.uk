@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/role-page-builders-developers
+  https://www.wpldn.uk/talk/role-page-builders-developers
 published: true
 post_date: 2017-06-05 12:54:56
 ---

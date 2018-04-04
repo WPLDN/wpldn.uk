@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/night-living-style-guides
+  https://www.wpldn.uk/talk/night-living-style-guides
 published: true
 post_date: 2017-10-01 17:05:11
 ---

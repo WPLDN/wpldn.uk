@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/modern-php-toolset-wordpress
+  https://www.wpldn.uk/talk/modern-php-toolset-wordpress
 published: true
 post_date: 2016-08-01 10:59:01
 ---

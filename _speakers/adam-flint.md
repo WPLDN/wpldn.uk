@@ -4,7 +4,7 @@ post_title: Adam Flint
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/adam-flint
+permalink: https://www.wpldn.uk/speaker/adam-flint
 published: true
 post_date: 2018-02-15 09:12:29
 ---

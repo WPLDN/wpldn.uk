@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/intro-to-woocommerce
+  https://www.wpldn.uk/talk/intro-to-woocommerce
 published: true
 post_date: 2014-08-01 22:41:25
 ---

@@ -4,7 +4,7 @@ post_title: Gary Jones
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/gary-jones
+permalink: https://www.wpldn.uk/speaker/gary-jones
 published: true
 post_date: 2018-02-06 16:10:24
 ---

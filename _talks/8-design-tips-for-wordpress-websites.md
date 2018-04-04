@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/8-design-tips-for-wordpress-websites
+  https://www.wpldn.uk/talk/8-design-tips-for-wordpress-websites
 published: true
 post_date: 2015-01-23 22:33:11
 ---

@@ -4,7 +4,8 @@ post_title: Mark Wilkinson
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/mark-wilkinson
+permalink: >
+  https://www.wpldn.uk/speaker/mark-wilkinson
 published: true
 post_date: 2017-06-02 01:06:35
 ---

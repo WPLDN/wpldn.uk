@@ -4,7 +4,8 @@ post_title: Franz Vitulli
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/franz-vitulli
+permalink: >
+  https://www.wpldn.uk/speaker/franz-vitulli
 published: true
 post_date: 2018-02-07 09:23:41
 ---

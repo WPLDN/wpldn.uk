@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/not-give-appalling-user-support
+  https://www.wpldn.uk/talk/not-give-appalling-user-support
 published: true
 post_date: 2015-01-01 15:14:48
 ---

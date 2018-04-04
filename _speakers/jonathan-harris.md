@@ -4,7 +4,8 @@ post_title: Jonathan Harris
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/jonathan-harris
+permalink: >
+  https://www.wpldn.uk/speaker/jonathan-harris
 published: true
 post_date: 2014-07-01 21:46:04
 ---

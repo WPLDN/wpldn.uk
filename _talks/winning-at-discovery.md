@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/winning-at-discovery
+  https://www.wpldn.uk/talk/winning-at-discovery
 published: true
 post_date: 2017-11-01 16:23:37
 ---

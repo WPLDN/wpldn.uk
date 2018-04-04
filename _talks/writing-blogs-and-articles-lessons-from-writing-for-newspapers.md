@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/writing-blogs-and-articles-lessons-from-writing-for-newspapers
+  https://www.wpldn.uk/talk/writing-blogs-and-articles-lessons-from-writing-for-newspapers
 published: true
 post_date: 2015-01-23 22:24:43
 ---

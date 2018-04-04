@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/its-not-me-its-you-finding-new-love-with-the-wordpress-double-o-framework
+  https://www.wpldn.uk/talk/its-not-me-its-you-finding-new-love-with-the-wordpress-double-o-framework
 published: true
 post_date: 2015-01-23 22:18:14
 ---

@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/blockchain-going-disrupt-digital-marketing
+  https://www.wpldn.uk/talk/blockchain-going-disrupt-digital-marketing
 published: true
 post_date: 2018-02-13 21:02:05
 ---

@@ -4,7 +4,8 @@ post_title: Annabel Kaye
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/annabel-kaye
+permalink: >
+  https://www.wpldn.uk/speaker/annabel-kaye
 published: true
 post_date: 2017-05-28 18:56:19
 ---

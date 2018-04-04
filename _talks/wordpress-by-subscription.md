@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/wordpress-by-subscription
+  https://www.wpldn.uk/talk/wordpress-by-subscription
 published: true
 post_date: 0201-09-01 18:01:15
 ---

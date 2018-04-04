@@ -4,7 +4,7 @@ post_title: Wasim Juned
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/wasim-juned
+permalink: https://www.wpldn.uk/speaker/wasim-juned
 published: true
 post_date: 2018-02-06 21:49:14
 ---

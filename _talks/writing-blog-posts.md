@@ -4,7 +4,8 @@ post_title: Why are we writing all these blog posts?
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/writing-blog-posts
+permalink: >
+  https://www.wpldn.uk/talk/writing-blog-posts
 published: true
 post_date: 2017-09-01 17:24:22
 ---

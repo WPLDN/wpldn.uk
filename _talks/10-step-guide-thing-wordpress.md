@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/10-step-guide-thing-wordpress
+  https://www.wpldn.uk/talk/10-step-guide-thing-wordpress
 published: true
 post_date: 2016-01-01 13:28:46
 ---

@@ -4,7 +4,8 @@ post_title: Sarah Semark
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/sarah-semark
+permalink: >
+  https://www.wpldn.uk/speaker/sarah-semark
 published: true
 post_date: 2018-02-06 16:46:56
 ---

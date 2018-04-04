@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/themes-plugins-and-accessibility
+  https://www.wpldn.uk/talk/themes-plugins-and-accessibility
 published: true
 post_date: 2014-09-01 22:43:19
 ---

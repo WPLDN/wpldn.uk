@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/wp-admin-interface-dead
+  https://www.wpldn.uk/talk/wp-admin-interface-dead
 published: true
 post_date: 2015-09-01 12:09:40
 ---

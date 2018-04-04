@@ -4,7 +4,8 @@ post_title: Ask the Experts!
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/ask-the-experts
+permalink: >
+  https://www.wpldn.uk/talk/ask-the-experts
 published: true
 post_date: 2014-06-01 07:46:50
 ---

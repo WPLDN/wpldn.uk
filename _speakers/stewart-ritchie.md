@@ -4,7 +4,8 @@ post_title: Stewart Ritchie
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/stewart-ritchie
+permalink: >
+  https://www.wpldn.uk/speaker/stewart-ritchie
 published: true
 post_date: 2018-02-07 10:04:37
 ---

@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/move-modern-php-wordpress
+  https://www.wpldn.uk/talk/move-modern-php-wordpress
 published: true
 post_date: 2017-09-01 17:26:18
 ---

@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/using-aws-super-charge-wordpress-site-scale-100000s-users
+  https://www.wpldn.uk/talk/using-aws-super-charge-wordpress-site-scale-100000s-users
 published: true
 post_date: 2015-07-01 14:17:10
 ---

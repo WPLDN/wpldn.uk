@@ -4,7 +4,7 @@ post_title: Tim Nash
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/tim-nash
+permalink: https://www.wpldn.uk/speaker/tim-nash
 published: true
 post_date: 2018-02-07 12:03:58
 ---

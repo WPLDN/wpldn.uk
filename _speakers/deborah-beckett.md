@@ -4,7 +4,8 @@ post_title: Deborah Beckett
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/deborah-beckett
+permalink: >
+  https://www.wpldn.uk/speaker/deborah-beckett
 published: true
 post_date: 2018-02-06 16:49:09
 ---

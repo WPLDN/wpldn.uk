@@ -4,7 +4,7 @@ post_title: Dan Maby
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/dan-maby
+permalink: https://www.wpldn.uk/speaker/dan-maby
 published: true
 post_date: 2018-01-27 13:06:17
 ---

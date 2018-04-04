@@ -4,7 +4,7 @@ post_title: News
 author: Dan Maby
 post_excerpt: ""
 layout: page
-permalink: https://wpldn.uk/news
+permalink: https://www.wpldn.uk/news
 published: true
 post_date: 2018-01-30 14:25:36
 ---

@@ -4,7 +4,8 @@ post_title: Scaling WordPress
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/scaling-wordpress
+permalink: >
+  https://www.wpldn.uk/talk/scaling-wordpress
 published: true
 post_date: 2015-01-23 22:12:55
 ---

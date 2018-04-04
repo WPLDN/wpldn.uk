@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/adding-composer-wordpress-development-toolbox
+  https://www.wpldn.uk/talk/adding-composer-wordpress-development-toolbox
 published: true
 post_date: 2015-08-01 12:30:12
 ---

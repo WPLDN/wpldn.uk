@@ -4,7 +4,7 @@ post_title: Alice Still
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/alice-still
+permalink: https://www.wpldn.uk/speaker/alice-still
 published: true
 post_date: 2018-02-06 17:14:01
 ---

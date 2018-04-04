@@ -4,7 +4,7 @@ post_title: Jenny Wong
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/jenny-wong
+permalink: https://www.wpldn.uk/speaker/jenny-wong
 published: true
 post_date: 2017-06-03 17:56:41
 ---

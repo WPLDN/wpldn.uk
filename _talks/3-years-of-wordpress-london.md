@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/3-years-of-wordpress-london
+  https://www.wpldn.uk/talk/3-years-of-wordpress-london
 published: true
 post_date: 2015-01-23 22:36:38
 ---

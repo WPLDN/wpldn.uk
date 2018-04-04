@@ -4,7 +4,7 @@ post_title: Tony Scott
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/tony-scott
+permalink: https://www.wpldn.uk/speaker/tony-scott
 published: true
 post_date: 2017-06-03 23:45:39
 ---

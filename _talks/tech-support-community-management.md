@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/tech-support-community-management
+  https://www.wpldn.uk/talk/tech-support-community-management
 published: true
 post_date: 2017-05-05 11:26:40
 ---

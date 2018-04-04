@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/plugins-uncovered-nov-2017
+  https://www.wpldn.uk/talk/plugins-uncovered-nov-2017
 published: true
 post_date: 2017-11-01 16:38:09
 ---

@@ -4,7 +4,7 @@ post_title: Theme LOL
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/theme-lol
+permalink: https://www.wpldn.uk/talk/theme-lol
 published: true
 post_date: 2015-01-23 22:32:32
 ---

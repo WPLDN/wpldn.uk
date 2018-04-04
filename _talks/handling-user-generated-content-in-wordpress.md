@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/handling-user-generated-content-in-wordpress
+  https://www.wpldn.uk/talk/handling-user-generated-content-in-wordpress
 published: true
 post_date: 2015-01-23 22:30:16
 ---

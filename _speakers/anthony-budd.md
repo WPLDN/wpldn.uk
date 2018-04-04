@@ -4,7 +4,8 @@ post_title: Anthony Budd
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/anthony-budd
+permalink: >
+  https://www.wpldn.uk/speaker/anthony-budd
 published: true
 post_date: 2017-06-05 12:53:07
 ---

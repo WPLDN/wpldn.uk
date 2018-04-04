@@ -4,7 +4,8 @@ post_title: David Coveney
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/david-coveney
+permalink: >
+  https://www.wpldn.uk/speaker/david-coveney
 published: true
 post_date: 2017-06-03 23:41:01
 ---

@@ -4,7 +4,7 @@ post_title: Ryan McCue
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/ryan-mccue
+permalink: https://www.wpldn.uk/speaker/ryan-mccue
 published: true
 post_date: 2018-02-19 16:51:27
 ---

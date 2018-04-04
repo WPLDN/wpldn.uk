@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/a-question-of-deliverables
+  https://www.wpldn.uk/talk/a-question-of-deliverables
 published: true
 post_date: 2014-07-01 22:40:02
 ---

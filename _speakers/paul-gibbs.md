@@ -4,7 +4,7 @@ post_title: Paul Gibbs
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/paul-gibbs
+permalink: https://www.wpldn.uk/speaker/paul-gibbs
 published: true
 post_date: 2018-02-07 14:26:00
 ---

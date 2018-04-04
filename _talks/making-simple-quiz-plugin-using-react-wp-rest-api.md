@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/making-simple-quiz-plugin-using-react-wp-rest-api
+  https://www.wpldn.uk/talk/making-simple-quiz-plugin-using-react-wp-rest-api
 published: true
 post_date: 2016-02-01 14:07:10
 ---

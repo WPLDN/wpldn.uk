@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/built-saas-startup-wordpress
+  https://www.wpldn.uk/talk/built-saas-startup-wordpress
 published: true
 post_date: 2016-04-01 10:58:01
 ---

@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/improvisation-a-vital-tool-for-business-success
+  https://www.wpldn.uk/talk/improvisation-a-vital-tool-for-business-success
 published: true
 post_date: 2015-04-30 19:45:58
 ---

@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/smart-tips-and-tricks-for-managing-freelancers
+  https://www.wpldn.uk/talk/smart-tips-and-tricks-for-managing-freelancers
 published: true
 post_date: 2015-02-26 19:00:20
 ---

@@ -4,7 +4,7 @@ post_title: Dan Drave
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/dan-drave
+permalink: https://www.wpldn.uk/speaker/dan-drave
 published: true
 post_date: 2018-03-08 13:12:05
 ---

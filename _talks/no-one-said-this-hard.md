@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/no-one-said-this-hard
+  https://www.wpldn.uk/talk/no-one-said-this-hard
 published: true
 post_date: 2018-01-29 17:46:47
 ---

@@ -4,7 +4,8 @@ post_title: Doug Belchamber
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/doug-belchamber
+permalink: >
+  https://www.wpldn.uk/speaker/doug-belchamber
 published: true
 post_date: 2017-06-05 12:48:52
 ---

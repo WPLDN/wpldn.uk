@@ -4,7 +4,8 @@ post_title: Mark Sta Ana
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/mark-santa-ana
+permalink: >
+  https://www.wpldn.uk/speaker/mark-santa-ana
 published: true
 post_date: 2017-05-31 18:41:02
 ---

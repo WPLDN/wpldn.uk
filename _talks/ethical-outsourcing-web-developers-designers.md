@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/ethical-outsourcing-web-developers-designers
+  https://www.wpldn.uk/talk/ethical-outsourcing-web-developers-designers
 published: true
 post_date: 2016-08-01 10:48:33
 ---

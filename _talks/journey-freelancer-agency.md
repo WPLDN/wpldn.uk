@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/journey-freelancer-agency
+  https://www.wpldn.uk/talk/journey-freelancer-agency
 published: true
 post_date: 2017-05-05 11:27:29
 ---

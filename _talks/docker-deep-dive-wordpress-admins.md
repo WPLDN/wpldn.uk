@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/docker-deep-dive-wordpress-admins
+  https://www.wpldn.uk/talk/docker-deep-dive-wordpress-admins
 published: true
 post_date: 2016-04-01 11:00:08
 ---

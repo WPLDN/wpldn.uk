@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/intro-glotpress-translating-british-english-en_gb
+  https://www.wpldn.uk/talk/intro-glotpress-translating-british-english-en_gb
 published: true
 post_date: 2017-05-05 11:23:35
 ---

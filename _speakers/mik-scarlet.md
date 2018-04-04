@@ -4,7 +4,7 @@ post_title: Mik Scarlet
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/mik-scarlet
+permalink: https://www.wpldn.uk/speaker/mik-scarlet
 published: true
 post_date: 2018-02-06 22:01:22
 ---

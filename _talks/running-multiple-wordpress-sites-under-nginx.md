@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/running-multiple-wordpress-sites-under-nginx
+  https://www.wpldn.uk/talk/running-multiple-wordpress-sites-under-nginx
 published: true
 post_date: 2015-02-26 19:30:06
 ---

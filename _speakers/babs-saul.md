@@ -4,7 +4,7 @@ post_title: Babs Saul
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/babs-saul
+permalink: https://www.wpldn.uk/speaker/babs-saul
 published: true
 post_date: 2018-02-06 16:23:14
 ---

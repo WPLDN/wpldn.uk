@@ -4,7 +4,7 @@ post_title: JJ Jay
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/jj-jay
+permalink: https://www.wpldn.uk/speaker/jj-jay
 published: true
 post_date: 2017-05-05 11:18:42
 ---

@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/themers-guide-wp-cli
+  https://www.wpldn.uk/talk/themers-guide-wp-cli
 published: true
 post_date: 2017-03-01 22:10:37
 ---

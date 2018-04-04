@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/dont-lose-steam-deal-unhappy-customers
+  https://www.wpldn.uk/talk/dont-lose-steam-deal-unhappy-customers
 published: true
 post_date: 2017-06-27 12:54:39
 ---

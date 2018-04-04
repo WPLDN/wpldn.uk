@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/design-process-community-project-wpldnbuild
+  https://www.wpldn.uk/talk/design-process-community-project-wpldnbuild
 published: true
 post_date: 2016-02-01 14:24:15
 ---

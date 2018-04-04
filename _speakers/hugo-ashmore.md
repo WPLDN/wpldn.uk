@@ -4,7 +4,8 @@ post_title: Hugo Ashmore
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/hugo-ashmore
+permalink: >
+  https://www.wpldn.uk/speaker/hugo-ashmore
 published: true
 post_date: 2018-02-07 14:23:36
 ---

@@ -4,7 +4,8 @@ post_title: Elliott Porter
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/elliott-porter
+permalink: >
+  https://www.wpldn.uk/speaker/elliott-porter
 published: true
 post_date: 2018-02-06 17:16:57
 ---

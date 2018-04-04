@@ -4,7 +4,8 @@ post_title: Why You Should Give Great Support
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/give-great-support
+permalink: >
+  https://www.wpldn.uk/talk/give-great-support
 published: true
 post_date: 2017-10-01 17:06:59
 ---

@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/wheres-the-one-click-install
+  https://www.wpldn.uk/talk/wheres-the-one-click-install
 published: true
 post_date: 2014-08-01 22:40:44
 ---

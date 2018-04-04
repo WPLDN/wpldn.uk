@@ -4,7 +4,7 @@ post_title: Thank You for Contacting Us
 author: Dan Maby
 post_excerpt: ""
 layout: page
-permalink: https://wpldn.uk/contact/thank-you
+permalink: https://www.wpldn.uk/contact/thank-you
 published: true
 post_date: 2018-02-08 23:13:54
 ---

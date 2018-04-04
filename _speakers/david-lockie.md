@@ -4,7 +4,8 @@ post_title: David Lockie
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/david-lockie
+permalink: >
+  https://www.wpldn.uk/speaker/david-lockie
 published: true
 post_date: 2018-02-13 11:00:09
 ---

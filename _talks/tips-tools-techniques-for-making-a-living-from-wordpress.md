@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/tips-tools-techniques-for-making-a-living-from-wordpress
+  https://www.wpldn.uk/talk/tips-tools-techniques-for-making-a-living-from-wordpress
 published: true
 post_date: 2015-01-23 22:19:07
 ---

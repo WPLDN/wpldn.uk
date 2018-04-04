@@ -4,7 +4,8 @@ post_title: Chris Sherry
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/chris-sherry
+permalink: >
+  https://www.wpldn.uk/speaker/chris-sherry
 published: true
 post_date: 2017-05-14 23:02:45
 ---

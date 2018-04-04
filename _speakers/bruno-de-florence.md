@@ -5,7 +5,7 @@ author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
 permalink: >
-  https://wpldn.uk/speaker/bruno-de-florence
+  https://www.wpldn.uk/speaker/bruno-de-florence
 published: true
 post_date: 2017-06-03 23:41:49
 ---

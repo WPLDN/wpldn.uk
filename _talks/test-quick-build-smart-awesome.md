@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/test-quick-build-smart-awesome
+  https://www.wpldn.uk/talk/test-quick-build-smart-awesome
 published: true
 post_date: 2018-02-13 09:13:57
 ---

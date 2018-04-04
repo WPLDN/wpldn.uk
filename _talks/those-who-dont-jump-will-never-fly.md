@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/those-who-dont-jump-will-never-fly
+  https://www.wpldn.uk/talk/those-who-dont-jump-will-never-fly
 published: true
 post_date: 2014-07-01 22:39:23
 ---

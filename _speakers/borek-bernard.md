@@ -4,7 +4,8 @@ post_title: Borek Bernard
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/borek-bernard
+permalink: >
+  https://www.wpldn.uk/speaker/borek-bernard
 published: true
 post_date: 2017-06-03 17:38:29
 ---

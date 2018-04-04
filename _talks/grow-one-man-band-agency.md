@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/grow-one-man-band-agency
+  https://www.wpldn.uk/talk/grow-one-man-band-agency
 published: true
 post_date: 2016-05-01 10:28:17
 ---

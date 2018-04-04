@@ -4,7 +4,8 @@ post_title: Milos Soskic
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/milos-soskic
+permalink: >
+  https://www.wpldn.uk/speaker/milos-soskic
 published: true
 post_date: 2017-06-03 17:57:30
 ---

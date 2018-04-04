@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/my-wordpress-theme-structure
+  https://www.wpldn.uk/talk/my-wordpress-theme-structure
 published: true
 post_date: 2015-04-30 19:00:34
 ---

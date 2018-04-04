@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: post
 permalink: >
-  https://wpldn.uk/thanks-from-wpldn-may-2017
+  https://www.wpldn.uk/thanks-from-wpldn-may-2017
 published: true
 post_date: 2017-05-26 13:06:35
 ---

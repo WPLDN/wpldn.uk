@@ -4,7 +4,7 @@ post_title: Jack Barham
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/jack-barham
+permalink: https://www.wpldn.uk/speaker/jack-barham
 published: true
 post_date: 2017-06-03 23:44:33
 ---

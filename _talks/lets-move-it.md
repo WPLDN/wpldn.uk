@@ -4,7 +4,7 @@ post_title: 'Let&#8217;s move it!'
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/lets-move-it
+permalink: https://www.wpldn.uk/talk/lets-move-it
 published: true
 post_date: 2015-01-23 22:28:05
 ---

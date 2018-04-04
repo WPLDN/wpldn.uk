@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/building-products-using-wordpress
+  https://www.wpldn.uk/talk/building-products-using-wordpress
 published: true
 post_date: 2015-03-26 19:00:33
 ---

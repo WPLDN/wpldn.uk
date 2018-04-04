@@ -4,7 +4,7 @@ post_title: Steve Woody
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/steve-woody
+permalink: https://www.wpldn.uk/speaker/steve-woody
 published: true
 post_date: 2018-02-07 12:16:56
 ---

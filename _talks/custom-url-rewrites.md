@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/custom-url-rewrites
+  https://www.wpldn.uk/talk/custom-url-rewrites
 published: true
 post_date: 2015-01-23 22:12:06
 ---

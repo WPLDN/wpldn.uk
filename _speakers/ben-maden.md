@@ -4,7 +4,7 @@ post_title: Ben Maden
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/ben-maden
+permalink: https://www.wpldn.uk/speaker/ben-maden
 published: true
 post_date: 2018-02-07 10:24:08
 ---

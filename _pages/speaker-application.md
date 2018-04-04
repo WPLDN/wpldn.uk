@@ -4,7 +4,7 @@ post_title: Speaker Application
 author: Dan Maby
 post_excerpt: ""
 layout: page
-permalink: https://wpldn.uk/speaker-application
+permalink: https://www.wpldn.uk/speaker-application
 published: true
 post_date: 2015-03-26 00:41:38
 ---

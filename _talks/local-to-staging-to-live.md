@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/local-to-staging-to-live
+  https://www.wpldn.uk/talk/local-to-staging-to-live
 published: true
 post_date: 2014-09-01 22:42:38
 ---

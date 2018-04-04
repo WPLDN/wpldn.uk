@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/designing-wordpress-admins-icons-laura-kalbag
+  https://www.wpldn.uk/talk/designing-wordpress-admins-icons-laura-kalbag
 published: true
 post_date: 2015-01-23 22:08:23
 ---

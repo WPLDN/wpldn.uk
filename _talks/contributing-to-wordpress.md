@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/contributing-to-wordpress
+  https://www.wpldn.uk/talk/contributing-to-wordpress
 published: true
 post_date: 2014-09-01 22:44:01
 ---

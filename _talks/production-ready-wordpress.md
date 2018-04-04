@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/production-ready-wordpress
+  https://www.wpldn.uk/talk/production-ready-wordpress
 published: true
 post_date: 2018-01-29 19:47:29
 ---

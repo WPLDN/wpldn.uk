@@ -4,7 +4,8 @@ post_title: Luke Williams
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/luke-williams
+permalink: >
+  https://www.wpldn.uk/speaker/luke-williams
 published: true
 post_date: 2017-06-03 23:45:03
 ---

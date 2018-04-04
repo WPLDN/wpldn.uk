@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/content-discovery-re-imagined
+  https://www.wpldn.uk/talk/content-discovery-re-imagined
 published: true
 post_date: 2015-01-23 22:21:10
 ---

@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/happiness-bar-dec-2015
+  https://www.wpldn.uk/talk/happiness-bar-dec-2015
 published: true
 post_date: 2015-12-01 11:38:18
 ---

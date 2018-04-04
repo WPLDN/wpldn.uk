@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/catering-for-wordpress
+  https://www.wpldn.uk/talk/catering-for-wordpress
 published: true
 post_date: 2015-07-01 14:14:41
 ---

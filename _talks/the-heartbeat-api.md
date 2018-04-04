@@ -4,7 +4,8 @@ post_title: The Heartbeat API
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/the-heartbeat-api
+permalink: >
+  https://www.wpldn.uk/talk/the-heartbeat-api
 published: true
 post_date: 2015-01-23 22:22:44
 ---

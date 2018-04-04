@@ -4,7 +4,8 @@ post_title: Richard Long
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/richard-long
+permalink: >
+  https://www.wpldn.uk/speaker/richard-long
 published: true
 post_date: 2017-06-03 23:43:19
 ---

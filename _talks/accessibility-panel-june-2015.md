@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/accessibility-panel-june-2015
+  https://www.wpldn.uk/talk/accessibility-panel-june-2015
 published: true
 post_date: 2015-06-01 14:38:02
 ---

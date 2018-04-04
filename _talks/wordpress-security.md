@@ -4,7 +4,8 @@ post_title: WordPress Security
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
-permalink: https://wpldn.uk/talk/wordpress-security
+permalink: >
+  https://www.wpldn.uk/talk/wordpress-security
 published: true
 post_date: 2015-01-23 22:29:34
 ---

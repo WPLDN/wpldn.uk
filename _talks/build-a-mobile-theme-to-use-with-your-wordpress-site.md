@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/build-a-mobile-theme-to-use-with-your-wordpress-site
+  https://www.wpldn.uk/talk/build-a-mobile-theme-to-use-with-your-wordpress-site
 published: true
 post_date: 2015-01-23 21:42:24
 ---

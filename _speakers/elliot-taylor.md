@@ -4,7 +4,8 @@ post_title: Elliot Taylor
 author: Dan Maby
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/elliot-taylor
+permalink: >
+  https://www.wpldn.uk/speaker/elliot-taylor
 published: true
 post_date: 2018-02-07 10:52:04
 ---

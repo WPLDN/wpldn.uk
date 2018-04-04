@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/word-word-writing-workflow
+  https://www.wpldn.uk/talk/word-word-writing-workflow
 published: true
 post_date: 2016-11-01 09:28:56
 ---

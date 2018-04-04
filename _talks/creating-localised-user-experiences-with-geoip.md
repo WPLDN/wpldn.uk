@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/creating-localised-user-experiences-with-geoip
+  https://www.wpldn.uk/talk/creating-localised-user-experiences-with-geoip
 published: true
 post_date: 2015-04-30 20:15:13
 ---

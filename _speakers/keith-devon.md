@@ -4,7 +4,7 @@ post_title: Keith Devon
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/keith-devon
+permalink: https://www.wpldn.uk/speaker/keith-devon
 published: true
 post_date: 2017-06-02 02:29:55
 ---

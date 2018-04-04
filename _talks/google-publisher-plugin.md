@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/google-publisher-plugin
+  https://www.wpldn.uk/talk/google-publisher-plugin
 published: true
 post_date: 2015-01-23 22:26:05
 ---

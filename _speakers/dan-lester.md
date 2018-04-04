@@ -4,7 +4,7 @@ post_title: Dan Lester
 author: Annabelle W
 post_excerpt: ""
 layout: wpldn_speaker
-permalink: https://wpldn.uk/speaker/dan-lester
+permalink: https://www.wpldn.uk/speaker/dan-lester
 published: true
 post_date: 2017-06-03 18:52:15
 ---

@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/wordpress-united-nations
+  https://www.wpldn.uk/talk/wordpress-united-nations
 published: true
 post_date: 2017-04-01 21:54:33
 ---

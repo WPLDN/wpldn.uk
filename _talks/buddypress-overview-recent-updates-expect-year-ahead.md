@@ -8,7 +8,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/buddypress-overview-recent-updates-expect-year-ahead
+  https://www.wpldn.uk/talk/buddypress-overview-recent-updates-expect-year-ahead
 published: true
 post_date: 2015-06-01 14:30:13
 ---

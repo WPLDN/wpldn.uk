@@ -7,7 +7,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/on-simple-usability-tweaks-for-wordpress-themes
+  https://www.wpldn.uk/talk/on-simple-usability-tweaks-for-wordpress-themes
 published: true
 post_date: 2015-01-23 22:09:26
 ---

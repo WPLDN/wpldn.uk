@@ -5,7 +5,7 @@ author: Dan Maby
 post_excerpt: ""
 layout: wpldn_talk
 permalink: >
-  https://wpldn.uk/talk/good-migrations-moving-wordpress-site-docker
+  https://www.wpldn.uk/talk/good-migrations-moving-wordpress-site-docker
 published: true
 post_date: 2016-02-01 14:13:31
 ---
